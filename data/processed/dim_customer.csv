@@ -1,0 +1,100 @@
+Customer_ID,Customer,Segment,Industry,Region,Subregion,Country,City
+1017,Chevron,Smb,Energy,EMEA,UKIR,Ireland,Dublin
+1056,Phillips 66,Strategic,Energy,AMER,NAMER,United States,New York City
+1031,Royal Dutch Shell,Smb,Energy,EMEA,EU-WEST,Germany,Stuttgart
+1065,Bnp Paribas,Smb,Finance,AMER,NAMER,United States,New York City
+1062,Engie,Smb,Energy,EMEA,NOR,Sweden,Stockholm
+1066,Microsoft,Smb,Tech,AMER,NAMER,Canada,Toronto
+1074,Pfizer,Enterprise,Healthcare,APJ,JAPN,Japan,Saitama
+1087,Toyota Motor,Smb,Manufacturing,EMEA,EU,Italy,Naples
+1047,Home Depot,Smb,Retail,EMEA,MEA,Turkey,Ankara
+1099,Wells Fargo,Smb,Finance,AMER,NAMER,United States,Los Angeles
+1048,Carrefour,Strategic,Retail,AMER,LATAM,Costa Rica,San José
+1025,Costco Wholesale,Smb,Retail,EMEA,EU-WEST,France,Paris
+1063,Mckesson,Smb,Consumer Products,EMEA,MEA,Turkey,Istanbul
+1043,Siemens,Smb,Manufacturing,AMER,NAMER,United States,New York City
+1051,Intel,Smb,Tech,EMEA,EU-WEST,France,Paris
+1083,Glencore,Enterprise,Other,APJ,JAPN,Japan,Tokyo
+1077,Procter & Gamble,Strategic,Consumer Products,APJ,JAPN,Japan,Aichi
+1101,Banco Santander,Enterprise,Finance,APJ,JAPN,Japan,Tokyo
+1058,Pemex,Strategic,Energy,APJ,ANZ,Australia,Wollongong
+1015,Samsung Electronics,Strategic,Tech,EMEA,EU-WEST,Germany,Hanover
+1028,Sony,Strategic,Tech,EMEA,EU-WEST,Luxembourg,Luxembourg
+1068,Morgan Stanley,Smb,Finance,AMER,LATAM,Brazil,Salvador
+1011,Bank Of America Corp.,Smb,Finance,APJ,APAC,Philippines,Davao City
+1059,Tesco,Strategic,Retail,EMEA,UKIR,United Kingdom,London
+1006,Aviva,Smb,Finance,EMEA,UKIR,United Kingdom,Brighton
+1067,Mondelez International,Smb,Consumer Products,AMER,NAMER,United States,New York City
+1001,Abbott Laboratories,Enterprise,Healthcare,APJ,ANZ,Australia,Sydney
+1035,Fannie Mae,Smb,Finance,EMEA,EU-WEST,Spain,Madrid
+1002,Aetna,Smb,Healthcare,EMEA,UKIR,United Kingdom,London
+1072,Oracle,Smb,Tech,EMEA,MEA,South Africa,Cape Town
+1098,Nissan Motor,Strategic,Transportation,APJ,JAPN,Japan,Tokyo
+1088,Tyson Foods,Strategic,Consumer Products,EMEA,EU-WEST,Portugal,Lisboa
+1094,Verizon Communications,Smb,Communications,AMER,NAMER,United States,Los Angeles
+1032,Itochu,Strategic,Finance,EMEA,NOR,Sweden,Uppsala
+1052,Daimler,Smb,Transportation,EMEA,EU-WEST,Luxembourg,Luxembourg
+1095,Walgreens,Enterprise,Retail,EMEA,EU-WEST,Belgium,Brussels
+1014,Boeing,Enterprise,Manufacturing,EMEA,UKIR,United Kingdom,London
+1093,Valero Energy,Smb,Energy,AMER,NAMER,United States,Los Angeles
+1089,Nestle,Strategic,Consumer Products,EMEA,EU-WEST,Luxembourg,Luxembourg
+1075,Philip Morris International,Enterprise,Consumer Products,APJ,ANZ,Australia,Sydney
+1100,Trafigura Group,Smb,Finance,EMEA,EU-WEST,Luxembourg,Luxembourg
+1096,Walmart,Smb,Retail,EMEA,EU-EAST,Russia,Moscow
+1019,Cisco Systems,Smb,Tech,EMEA,NOR,Sweden,Stockholm
+1078,Prudential Financial,Strategic,Finance,EMEA,UKIR,United Kingdom,London
+1004,Amazon,Smb,Tech,AMER,LATAM,Mexico,Mexico City
+1027,Gazprom,Strategic,Energy,EMEA,MEA,South Africa,Cape Town
+1036,Fedex,Enterprise,Transportation,APJ,JAPN,Japan,Tokyo
+1045,Honda Motor,Smb,Manufacturing,AMER,LATAM,Chile,Santiago
+1026,Cvs Health,Smb,Retail,AMER,NAMER,United States,Aurora
+1041,General Motors,Strategic,Manufacturing,EMEA,EU-WEST,France,Paris
+1082,State Farm Insurance Cos.,Strategic,Finance,AMER,NAMER,United States,Los Angeles
+1022,Comcast,Smb,Communications,EMEA,EU-WEST,Poland,Warsaw
+1007,Amerisourcebergen,Smb,Healthcare,AMER,NAMER,United States,Newark
+1055,Johnson & Johnson,Enterprise,Healthcare,AMER,LATAM,Chile,Puente Alto
+1033,Honhai Precision Industry,Enterprise,Tech,AMER,NAMER,Canada,Toronto
+1005,American Express,Smb,Finance,AMER,NAMER,Canada,Toronto
+1054,J.P. Morgan Chase & Co.,Smb,Finance,AMER,NAMER,United States,New York City
+1057,Kroger,Smb,Retail,EMEA,EU-WEST,France,Paris
+1046,Volkswagen,Smb,Manufacturing,AMER,NAMER,Canada,Toronto
+1064,Merck,Strategic,Healthcare,APJ,ANZ,Australia,Melbourne
+1010,At&T,Enterprise,Communications,AMER,NAMER,United States,Raleigh
+1003,Allstate,Strategic,Finance,AMER,NAMER,United States,Providence
+1039,Bmw,Enterprise,Manufacturing,AMER,LATAM,Argentina,Córdoba
+1049,Humana,Strategic,Healthcare,EMEA,EU-WEST,France,Paris
+1081,Sprint Nextel,Smb,Communications,APJ,JAPN,Japan,Aichi
+1080,Allianz,Smb,Finance,AMER,NAMER,United States,New York City
+1090,United Parcel Service,Smb,Transportation,EMEA,MEA,South Africa,Johannesburg
+1085,Target,Smb,Retail,APJ,ANZ,Australia,Sydney
+1030,Airbus,Enterprise,Manufacturing,EMEA,EU-WEST,Luxembourg,Luxembourg
+1038,Cigna,Smb,Healthcare,AMER,NAMER,United States,Los Angeles
+1042,Goldman Sachs Group,Smb,Finance,EMEA,UKIR,United Kingdom,London
+1060,Lowes,Smb,Retail,APJ,ANZ,Australia,Sydney
+1009,Ford Motor,Smb,Manufacturing,AMER,NAMER,United States,Detroit
+1008,Apple,Strategic,Tech,AMER,NAMER,United States,Los Angeles
+1023,China National Petroleum,Strategic,Energy,EMEA,EU-WEST,France,Paris
+1024,Conocophillips,Smb,Energy,AMER,NAMER,United States,New York City
+1076,Bosch,Smb,Tech,EMEA,EU-WEST,Spain,Madrid
+1070,Hsbc Holdings,Strategic,Finance,AMER,LATAM,Argentina,Mendoza
+1013,Enel,Strategic,Energy,EMEA,EU-WEST,Germany,Leipzig
+1084,Sysco,Smb,Consumer Products,EMEA,UKIR,United Kingdom,London
+1061,Marathon Petroleum,Smb,Energy,EMEA,UKIR,United Kingdom,London
+1092,Unitedhealth Group,Smb,Healthcare,AMER,NAMER,Canada,Vancouver
+1050,Mitsubishi,Strategic,Manufacturing,APJ,ANZ,Australia,Adelaide
+1034,Exxon Mobil,Enterprise,Energy,EMEA,EU-EAST,Israel,Tel Aviv
+1029,Anthem,Smb,Healthcare,AMER,NAMER,United States,Columbus
+1018,Petrobras,Strategic,Energy,EMEA,EU-EAST,Russia,Yekaterinburg
+1044,Lukoil,Smb,Energy,EMEA,NOR,Finland,Helsinki
+1021,Coca-Cola,Smb,Consumer Products,APJ,JAPN,Japan,Tokyo
+1073,Pepsico,Strategic,Consumer Products,AMER,LATAM,Brazil,São Paulo
+1040,General Electric,Smb,Finance,EMEA,EU-WEST,France,Paris
+1012,Berkshire Hathaway,Strategic,Finance,AMER,NAMER,United States,New York City
+1097,Walt Disney,Enterprise,Communications,EMEA,UKIR,United Kingdom,London
+1053,Alphabet,Smb,Tech,AMER,NAMER,United States,Seattle
+1086,Huawei,Strategic,Tech,APJ,JAPN,Japan,Aichi
+1071,News Corp.,Smb,Other,APJ,JAPN,Japan,Hyogo
+1016,Caterpillar,Smb,Manufacturing,EMEA,EU-WEST,Spain,Madrid
+1020,Citigroup,Smb,Finance,AMER,LATAM,Mexico,Mexico City
+1091,Panasonic,Strategic,Tech,AMER,NAMER,United States,New York City
+1079,Safeway,Strategic,Retail,EMEA,EU-WEST,Germany,Stuttgart
